@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joaofelipe0202/budget-calculator/issues"
   },
-  "homepage": "https://github.com/joaofelipe0202/budget-calculator#readme"
+  "homepage": "https://github.com/joaofelipe0202/budget-calculator#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
